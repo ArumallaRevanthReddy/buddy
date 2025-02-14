@@ -1,0 +1,8 @@
+This is an agentic RAG application with multiple knowledge bases like a vector DB, postgres DB and might add a few more
+in future.
+
+Here is the tech stack that has been used to build this app:
+LLM: OpenAI
+LangChain: To manage prompt engineering, retrieval, and agent workflows.
+Pinecone - (knowledge base 1)
+PostgreSQL - (knowledge base 2)
